@@ -1,4 +1,4 @@
- name: Lamnda - Deploy to Amazon 
+name: Lamnda - Deploy to Amazon 
 
 on:
   push:
