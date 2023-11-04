@@ -8,7 +8,7 @@ on:
 env:
   AWS_REGION: eu-west-3
   ECR_REPOSITORY: lambdamiax11
-  LAMBDA_NAME: lambdamiax11
+  LAMBDA_NAME: python2
 
 defaults:
   run:
